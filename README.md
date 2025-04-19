@@ -15,7 +15,7 @@
 
 - 🤝 I’m looking for help with **Integrating complex Python scripts with large-scale databases, enhancing cross-platform user experiences, and mastering the latest graphic design tools and techniques.**
 
-- 👨‍💻 All of my projects are available at [https://portfolio-hafsakamali.vercel.app/](https://portfolio-hafsakamali.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://portfolio-hafsakamali.vercel.app/](https://hafsa-kamali-next-js-portfolio-fullstack-pmvveods7.vercel.app/)
 
 - 💬 Ask me about **python,Html,Css,Typescript,Javascript,React,Nextjs,Tailwind Css, Shadcn Ui,DaisyUi,Sanity.io,Bootstrap,FireBase,Numpy,Maplotlib,adobeIllustrator,Photoshop,canva,dribble,adobe PriemerePro,Aftereffect,DavinciResolve,Finalcutpro,Figma**
 
